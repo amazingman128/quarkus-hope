@@ -7,7 +7,7 @@
   <version>1.0</version>
   <properties>
     <cn.hutool.version>5.0.6</cn.hutool.version>
-    <com.google.guava.version>29.0-jre</com.google.guava.version>
+    <com.google.guava.version>32.0.0-jre</com.google.guava.version>
     <compiler-plugin.version>3.8.1</compiler-plugin.version>
     <maven.compiler.parameters>true</maven.compiler.parameters>
     <maven.compiler.source>1.8</maven.compiler.source>
